@@ -2,7 +2,7 @@
 
 > Ứng dụng học tiếng Anh đa trình độ (A0 → C1) kết hợp Trợ lý ảo Mochi AI, Flashcards 3D, Luyện đề thông minh và Thử thách kiểm tra từ vựng 4 giai đoạn.
 
-🌐 **Trải nghiệm trực tuyến**: [https://devlor04.github.io/Study_EN/](https://devlor04.github.io/Study_EN/)
+🌐 **Trải nghiệm trực tuyến**: [https://devlor04.github.io/WEB_EN/](https://devlor04.github.io/WEB_EN/)
 
 ---
 
@@ -64,8 +64,8 @@ Từ mới chỉ được tính là đã học sau khi vượt qua đủ 4 thử
 
 1. Clone repository về máy:
    ```bash
-   git clone https://github.com/Devlor04/Study_EN.git
-   cd Study_EN
+   git clone https://github.com/Devlor04/WEB_EN.git
+   cd WEB_EN
    ```
 2. Mở file `index.html` trực tiếp trên trình duyệt (Chrome, Edge, Brave...) để trải nghiệm đầy đủ tính năng!
 
